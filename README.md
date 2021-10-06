@@ -6,8 +6,6 @@ Repository associated with the publication:
 
 Dario X. Ramirez-Villacis, Andrea Pinos-Leon, Pamela Vega-Polo, Isai Salas-Gonzalez, Corbin D. Jones, María de Lourdes Torres 
 
-https://doi.org/XXXXXXX
-
 If you need futher information please contact [dxramirez@usfq.edu.ec](mailto:dxramirez@usfq.edu.ec)
 
 This repository contains the count tables obtained after the processing of the amplicon sequence data. The amplicon sequencing raw reads are available at NCBI Sequence Read Archive (Project PRJNA769071).
