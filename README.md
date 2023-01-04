@@ -2,7 +2,7 @@
 
 Repository associated with the publication:
 
-### Revealing the rhizosphere microbial community of the wild Andean blueberry (Vaccinium floribundum Kunth.) in the Ecuadorian Highlands
+### Untangling the effects of plant genotype and soil conditions on the assembly of bacterial and fungal communities in the rhizosphere of the wild Andean blueberry (*Vaccinium floribundum* Kunth.)
 
 Dario X. Ramirez-Villacis, Andrea Pinos-Leon, Pamela Vega-Polo, Isai Salas-Gonzalez, Corbin D. Jones, María de Lourdes Torres 
 
