@@ -1,4 +1,4 @@
-DADA2_Header,Fraction,Province,Site,Soil_region,Plant_genotype,Latitude,Longitude,Altitude_range
+Sample,Fraction,Province,Site,Soil_region,Plant_genotype,Latitude,Longitude,Altitude_range
 A003,Rhizosphere,Azuay,Cajas_Toreadora,Southern_Highlands,Cluster_4,-2.78,-79.22,Range-3940-4160
 A006,Rhizosphere,Azuay,Cajas_Toreadora,Southern_Highlands,Cluster_4,-2.78,-79.23,Range-3940-4160
 A010,Rhizosphere,Azuay,Cajas_Toreadora,Southern_Highlands,Cluster_4,-2.78,-79.23,Range-3940-4160
